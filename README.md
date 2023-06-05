@@ -1,0 +1,2 @@
+# proprietaryTSLprotocol
+根据私有协议生成对应的物模型和对应的JSON文件
